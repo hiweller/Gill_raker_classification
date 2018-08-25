@@ -1,5 +1,7 @@
 library(rfishbase, magrittr)
 
+# Check for overlaps between taxon list and ScanAllFishes ####
+
 taxon.sample <- read.csv("Spreadsheets/taxon_sampling_list.csv")
 saf <- read.csv("Spreadsheets/scan_all_fishes.csv")
 
@@ -9,7 +11,6 @@ temp <- c()
 
 genera <- c()
 taxon.list <- c()
-
 
 for (i in 1:nrow(taxon.sample)) {
   
@@ -53,41 +54,15 @@ for (i in 1:nrow(taxon.sample)) {
     genera <- c(genera, fishbase.genera)
     taxon.list <- c(taxon.list, rep(i, length(fishbase.genera)))
   }
-    #saf.level <- which(colnames(fishbase) == taxon.level)
-  
-  #saf.match <- fishbase[ , saf.level]
-  
-  # Pull down all species that fall within that group
-  #taxon.matches <- fishbase[which(saf.match %in% taxon.idx), 2]
-  
-  # Find all overlaps of those species with scan all fishes
-  
-  
+
   
 }
+
+# Generate morphospace search CSV with taxon.number and genera
+# Each row contains a genus, and the taxon number (between 1 and 102) that that genus could fulfill
 morphospace.output <- data.frame(Taxon.number = taxon.list,
            Genus.species = genera)
 
-saf.pull.list <- saf[temp, ]
-
-# Columns:
-# Order
-# Family
-# Genus
-# Species
-# Corresponding row on taxon list
-# Trophic niche (fishbase class)
-# Trophic niche (comments)
-
-# For every row in taxon.sample:
+write.csv(morphospace.output, "Spreadsheets/Morphospace_genera.csv")
 
 
-
-# If there is only one match:
-# Enter it onto the Single.matches dataframe
-
-# If there are no matches:
-# Enter it onto the No.matches dataframe
-
-# If there are multiple matches:
-# Enter onto multiple.matches dataframe

@@ -1,0 +1,101 @@
+Order,Family ,Genus,Species,Species list entry
+Polypteriformes,Polypteridae,Polypterus,,Polypterus
+Acipenseriformes,Acipenseridae,Acipenser,,Sturgeon
+Acipenseriformes,Polyodontidae,Polyodon,spatula,Acipenseriformes
+Amiiformes,Amiidae,Amia,calva,Amia
+Lepisosteiformes,Lepisosteidae,,,Gar
+Lepisosteiformes,Lepisosteidae,,,Gar
+Elopiformes,Megalopidae,Megalops,,Tarpon
+Osteoglossiformes,Osteoglossidae,Osteoglossum,bicirrhosum,Osteoglossum bicirrhosum
+Osteoglossiformes,Arapaimidae,Heterotis,niloticus,Heterotis niloticus
+Clupeiformes,Clupeidae,Clupea,,Clupea
+Clupeiformes,Clupeidae,Harengula,,Harengula
+Clupeiformes,Clupeidae,Sardinella,,Sardinella
+Clupeiformes,Clupeidae,Opisthonema,,Opisthonema
+Clupeiformes,Engraulidae,Anchoa,,Anchoa
+Clupeiformes,Clupeidae,Sardinops,sagax,Sardinops
+Gonorynchiformes,Chanidae,Chanos,chanos,Chanos chanos
+Cypriniformes,Cyprinidae,Hypophthalmichthys,,Hypothalmichthys
+Cypriniformes,Cyprinidae,Danio,,Danio
+Cypriniformes,Cyprinidae,Cyprinus,carpio,Common carp
+Cypriniformes,Cyprinidae,Carassius,auratus,Goldfish
+Cypriniformes,Catastomidae,,,Catastomid (carp)...cyprinus
+Cypriniformes,Cobitidae,,,Loach
+Characiformes,Characidae,,,Tetra
+Characiformes,Serrasalmidae,Pygocentrus,,Pygocentrus
+Characiformes,,Hemigrammus,,Hemmigrammus
+Characiformes,Alestidae,Hydrocynus,,Hydrocynus
+Gymnotiformes,Gymnotiformes,,,Gymnotiforme
+Gymnotiformes,Gymnotiformes,,,Gymnotiforme
+Siluriformes,Ictaluridae,Ictalurus,punctatus,Ictalurus punctatus
+Siluriformes,Loricariidae,,,Loricariid
+Siluriformes,Ariidae,,,Ariidae
+Siluriformes,Clariidae,,,Clariidae
+Siluriformes,Bagridae,,,Bagridae
+Argentiniformes,Opisthoproctidae,,,Barrel eye
+Argentiniformes,Argentinidae,Glossanodon,semifasciatus,Glossanodon semifasciatus
+Esociformes,Esocidae,Esox,,Pike
+Salmoniformes,Salmonidae,Salmo,salar,Salmon
+Salmoniformes,Salmonidae,Oncorhynchus,,Salmon
+Salmoniformes,Salmonidae,Thymallus,arcticus,Thymallus arcticus
+Osmeriformes,Osmeridae,Hypomesus,pretiosus,Hypomesus pretiosus
+Stomiiformes,,,,Stomiatid
+Aulopiformes,Alepisauridae,Alepisaurus,,Lancet fish
+Aulopiformes,Synodontidae,,,Lizard fish
+Myctophiformes,Myctophidae,,,Lantern fish
+Gadiformes,Gadidae,Gadus,morhua,Atlantic cod
+Gadiformes,Gadidae,Gadus,macrocephalus,Pacific cod
+Perciformes,Coryphaenidae,Coryphaena,hippurus,Mahi mahi
+Lampriformes,Regalecidae,,,Oarfish
+Lampriformes,Trachipteridae,,,Ribbon fish
+Lampriformes,Lampridae,Lampris,,Opah
+Beryciformes,Monocentridae,Monocentris,,Monocentris reedi
+Beryciformes,Anomalopidae,,,Flashlight fish
+Beryciformes,Holocentridae,Holocentrus,adscensionis,Holocentrus adscensionis
+Ophidiiformes,Ophidiidae,Porogadus,miles,Porogadus miles
+Batrachoidiformes,Batrachoididae,Porichthys,notatus,Midshipman
+Batrachoidiformes,Batrachoididae,,,Toadfish
+Gobiiformes,Gobiidae,,,Goby
+Gobiiformes,Gobiidae,,,Goby
+Gobiiformes,Gobiidae,,,Goby
+Gobiiformes,Gobiidae,,,Goby
+Scombriformes,,,,Scombriformes
+Syngnathiformes,Syngnathidae,,,Syngnathid leptorhynchus
+Anabantiformes,Osphronemidae,Betta,,Betta
+Perciformes,Centropomidae,Centropomus,undecimalis,Centropomus undecimalis
+Perciformes,Carangidae,Caranx,hippos,Caranx hippos
+Perciformes,Carangidae,Selene,vomer,Selene vomer
+Perciformes,Polynemidae,Polydactylus,sexfilis,Polydactylus sexfilis
+Cichliformes,Cichlidae,Oreochromis,niloticus,Oreochromis niloticus
+Pleuronectiformes,Pleuronectidae,Psettichthys,melanostictus,Psettichthys melanostictus
+Mugiliformes,,,,Mugiliformes
+Perciformes,Pseudochromidae,Pictichromis,paccagnellae,Pictichromis paccagnella
+Perciformes,Pomacentridae,Dascyllus,aruanus,Dascyllus aruanus
+Perciformes,Pomacentridae,Chromis,chromis,Chromis chromis
+Perciformes,Pomacentridae,Amphiprion,ephippium,Amphiprion ephippium
+Perciformes,Grammatidae,Gramma,loreto,Royal gramma
+Perciformes,Opistognathidae,,,Opistognathidae
+Gobiesociformes,Gobiesocidae,Gobiesox,meandricus,Gobiesox meandricus
+Perciformes,Bleniidae,,,Blenny
+Perciformes,Bleniidae,,,Blenny
+Perciformes,Bleniidae,,,Blenny
+Perciformes,Cichlidae,Satanoperca,,Satanoperca
+Perciformes,Cichlidae,Petrotilapia,,Petrotilapia
+Beloniformes,Belonidae,,,Needlefish
+Atheriniformes,Atherinopsidae,Menidia,menidia,Atlantic silverside
+Cyprinodontiformes,Poeciliidae,Poecilia,latipinna,Molly
+Cyprinodontiformes,Cyprinodontidae,,,Pupfish
+Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia reticulata
+Perciformes,Centrarchidae,Lepomis,macrochirus,Bluegill
+Perciformes,Centrarchidae,Micropterus,salmoides,Largemouth bass
+Perciformes,Pholidae,Apodichthys,flavidus,Apodichthys flavidus
+Scorpaeniformes,Cottidae,Artedius,,Artedius
+Labriformes,Labridae,,,Wrasse
+Labriformes,Labridae,,,Wrasse
+Perciformes,Scaridae,,,Parrotfish
+Perciformes,Serranidae,,,Serranidae
+Perciformes,Sciaenidae,,,Drum
+Perciformes,Percidae,Perca,,Perch
+Perciformes,Chaetodontidae,,,Butterflyfish
+Tetraodontiformes,Tetraodontidae,,,Pufferfish
+Tetraodontiformes,Balistidae,,,Triggerfish
